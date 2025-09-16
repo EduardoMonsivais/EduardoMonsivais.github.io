@@ -15,9 +15,9 @@ body {
   margin: 0;
   background: linear-gradient(180deg,#071029 0%, #0f172a 70%);
   color: var(--text);
+  line-height: 1.6;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  line-height: 1.6;
 }
 
 .container {
